@@ -31,10 +31,6 @@ Edit
 ├── requirements.txt
 ├── sample_images/
 └── README.md
-📌Note
-Ensure the model weights and COCO dataset mappings are set correctly in the code.
-
-Gradio UI runs in the browser on localhost.
 
 📬Contact
 For any queries or contributions, feel free to open an issue or pull request.
